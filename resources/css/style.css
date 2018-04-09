@@ -25,3 +25,8 @@ h2 {
   font-size: 21px;
   color: Gray;
 }
+
+.endlink {
+  text-align: Right;
+  color: Gray;
+}
